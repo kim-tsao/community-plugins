@@ -32,12 +32,12 @@
   "dependencies": {
     "@backstage-community/plugin-blackduck-common": "workspace:^",
     "@backstage-community/plugin-blackduck-node": "workspace:^",
-    "@backstage/backend-plugin-api": "^1.6.2",
-    "@backstage/plugin-scaffolder-node": "^0.12.4"
+    "@backstage/backend-plugin-api": "^1.8.0",
+    "@backstage/plugin-scaffolder-node": "^0.13.0"
   },
   "devDependencies": {
-    "@backstage/cli": "^0.35.3",
-    "@backstage/plugin-scaffolder-node-test-utils": "^0.3.7"
+    "@backstage/cli": "^0.36.0",
+    "@backstage/plugin-scaffolder-node-test-utils": "^0.3.9"
   },
   "files": [
     "dist"
